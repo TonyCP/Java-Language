@@ -1,0 +1,20 @@
+/******************************************************************************
+ * The This file will contain project notes and ideas for others to view upon
+ pulling from GITHUB. Please enter notes well formatted under your name only.
+ NOTE: It is important this file is to be deleted before submission.
+ ******************************************************************************/
+
+ TONAE NOTES:
+ - Add thorough testing
+ - Add new javadocs?
+
+- Draw two Settings ___
+- Slow down whosTurn() to display whos turn not only in terminal but also in game
+- find way to start refreshpanel on run so cards < 7 can allign.
+- minor bug in A.I Rotation
+
+- Add special draw two settings into rules dialog if implemented
+- At end before submission go over running and fix/add all comments of each class
+
+ PRATTY NOTES:
+ MYREN NOTES:
