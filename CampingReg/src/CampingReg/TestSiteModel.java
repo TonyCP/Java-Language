@@ -10,7 +10,7 @@ import org.junit.Test;
 /**********************************************************************
  * JUnit Testing for SiteModel.java
  *
- * @author Tony Chanelle 
+ * @author Tony Chanelle
  *********************************************************************/
 public class TestSiteModel {
 
